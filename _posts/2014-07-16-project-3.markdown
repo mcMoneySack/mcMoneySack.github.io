@@ -6,6 +6,6 @@ img: certificate-icon-with-ribbon-medal.jpg
 status: October 2025
 <!-- category: Web Development -->
 description: List of my certificates
-*LPIC-1 (2014, re-newed 2024)*
-*LPIC Security Engineer*
+LPIC-1 (2014, re-newed 2024)
+LPIC Security Engineer
 ---
