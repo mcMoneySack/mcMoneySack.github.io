@@ -7,8 +7,4 @@ alt: image-alt
 project-date: October 2025
 category: Shell
 description: This and that about the bash ... (hopefully helpful)
-| Shortcut	| Description	|
-| :---		| 	:---:		|
-| Ctrl + E	| Move to the end of the line.	|
-
 ---
