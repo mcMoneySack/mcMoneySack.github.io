@@ -3,9 +3,7 @@ layout: default
 modal-id: 3
 date: 2025-10-06
 img: certificate-icon-with-ribbon-medal.jpg
-alt: image-alt
 status: October 2025
-client: Start Bootstrap
 <!-- category: Web Development -->
 description: List of my certificates
 ---
