@@ -7,12 +7,4 @@ alt: image-alt
 project-date: October 2025
 category: Shell
 description: 
-- Event designators
-  - !#
-    - Repeats the entire command line typed so far;
-  - !!
-    - Refer to the previous entry.
-    - This is a synonym for “!-1”.
-  - !n
-    - Refer to history list entry n
 ---
